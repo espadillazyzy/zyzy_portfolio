@@ -27,7 +27,8 @@
 </nav>
     </footer>
   </body>
-  <style>
+  
+   <style>
     body, footer {
       background-image: url('/beach.png');
       background-size: cover;
