@@ -4,7 +4,7 @@
   <body>
     <b><p>ASPIRING FRONT-END DEVELOPER/SOFTWARE ENGINEER</p></b><br>
     <div style="text-align:center">
-      <img src="portfolioimg.png" style="border-radius:10px; height:200px; width:200px">
+      <img src="portprofile.png" style="border-radius:10px; height:200px; width:200px">
       <h3>Hello World! I'm Zyrus Espadilla</h3><br>
       <h4 style="text-align:left" id="about">About me!</h4>
       <p>I'm a 15 year old G10 enthusiast with an interest for web development and software engineering. Learning to code is one of my passions, and I'm dedicated to continues growth and improvement in this field.</p><br>
