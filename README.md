@@ -1,7 +1,6 @@
-<!DOCTYPE html>
+
 <html>
   <head>
-    <meta name=”viewport” content=”width=device-width, initial-scale=1.0″>
   </head>
   <body>
     <b><p>ASPIRING FRONT-END DEVELOPER/SOFTWARE ENGINEER</p></b><br>
@@ -24,6 +23,4 @@
     <li><a href="#skills">certificates</a></li>
   </ul>
 </nav>
-    </footer>
-  </body>
-</html>
+   
