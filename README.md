@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta name=”viewport” content=”width=device-width, initial-scale=1.0″>
-    <title>myportfolio</title>
   </head>
   <body>
     <b><p>ASPIRING FRONT-END DEVELOPER/SOFTWARE ENGINEER</p></b><br>
@@ -27,27 +26,4 @@
 </nav>
     </footer>
   </body>
-  
-   <style>
-    body, footer {
-      background-image: url('/beach.png');
-      background-size: cover;
-      background-repeat: no-repeat;
-    }
-    p, h3, h4 {
-      color: white;
-    }
-    nav, ul {
-      background-color:white;
-    }
-    @media screen and (max-width:767px) {
-      ...
-    }
-    @media screen and (max-width:767px) and (max-width:1023px) {
-      ...
-    }
-    @media screen and (min-width:1024px) {
-      ...
-    }
-  </style>
 </html>
