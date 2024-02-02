@@ -25,4 +25,3 @@
     <li><a href="#skills">certificates</a></li>
   </ul>
 </nav>
-</body>
